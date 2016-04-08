@@ -4,7 +4,7 @@
 #### Header 4 
 ##### Header 5 
 
-## Markdown plus h2 with a custom ID {#id-goes-here}
+## Markdown plus h2 with a custom ID {id-goes-here}
 [Link back to H2](#id-goes-here)
 
 This is a paragraph, which is text surrounded by whitespace. Paragraphs can be on one 
