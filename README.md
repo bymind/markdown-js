@@ -1,10 +1,10 @@
-# Header 1 #
-## Header 2 ##
-### Header 3 ###             (Hashes on right are optional)
-#### Header 4 ####
-##### Header 5 #####
+# Header 1 
+## Header 2 
+### Header 3 (Hashes on right are optional)
+#### Header 4 
+##### Header 5 
 
-## Markdown plus h2 with a custom ID ##         {#id-goes-here}
+## Markdown plus h2 with a custom ID {#id-goes-here}
 [Link back to H2](#id-goes-here)
 
 This is a paragraph, which is text surrounded by whitespace. Paragraphs can be on one 
